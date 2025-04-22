@@ -1,4 +1,4 @@
-#Age Calculator
+#Age Calculator: 
 This is a simple web-based Age Calculator built using HTML, CSS, and JavaScript.  
 Users can enter their birth date and click "Submit" to see their exact age in years, months, and days.  
 The UI features a red-themed glowing design on a dark background.  
